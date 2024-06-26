@@ -1,1 +1,1 @@
-# Huamn_Activity_Recognition_System
+# Human_Activity_Recognition_System
